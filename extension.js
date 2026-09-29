@@ -28,8 +28,8 @@ const LOCATION_LABELS = {
     umraniye: 'İstanbul • Ümraniye',
 };
 
-const REFRESH_INTERVAL_SECONDS = 6 * 60 * 60;
-const REFRESH_MIN_AGE_SECONDS = 12 * 60 * 60;
+const REFRESH_INTERVAL_SECONDS = 12 * 60 * 60;
+const REFRESH_MIN_AGE_SECONDS = 24 * 60 * 60;
 
 function dateKey(date) {
     return `${date.getFullYear()}-${String(date.getMonth() + 1).padStart(2, '0')}-${String(date.getDate()).padStart(2, '0')}`;
