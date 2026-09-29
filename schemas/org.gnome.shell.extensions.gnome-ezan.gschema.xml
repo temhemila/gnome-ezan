@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="gnome-ezan">
+  <schema id="org.gnome.shell.extensions.gnome-ezan" path="/org/gnome/shell/extensions/gnome-ezan/">
+    <key name="location" type="s">
+      <default>'selcuklu'</default>
+      <summary>Seçili Konum</summary>
+      <description>Namaz vakitlerinin gösterileceği konum anahtarı.</description>
+    </key>
+    <key name="show-label" type="b">
+      <default>true</default>
+      <summary>Etiketi Göster</summary>
+      <description>Üst panelde vakit adını ve geri sayımı göster.</description>
+    </key>
+    <key name="notifications" type="b">
+      <default>true</default>
+      <summary>Bildirimler</summary>
+      <description>Vakit girdiğinde masaüstü bildirimi gönder.</description>
+    </key>
+    <key name="refresh-request" type="x">
+      <default>0</default>
+      <summary>Yenileme İsteği</summary>
+      <description>Arayüzden zorla yenileme tetikleme zaman damgası.</description>
+    </key>
+  </schema>
+</schemalist>

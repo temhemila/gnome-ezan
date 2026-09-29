@@ -1,0 +1,15 @@
+{
+  "uuid": "gnome-ezan@temhemila.github.com",
+  "name": "GNOME Ezan Vakitleri",
+  "description": "Diyanet İşleri Başkanlığı verileriyle namaz vakitleri ve geri sayım göstergesi.",
+  "shell-version": [
+    "45",
+    "46",
+    "47",
+    "48",
+    "49",
+    "50"
+  ],
+  "url": "https://github.com/temhemila/gnome-ezan",
+  "settings-schema": "org.gnome.shell.extensions.gnome-ezan"
+}
