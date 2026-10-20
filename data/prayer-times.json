@@ -2,24 +2,16 @@
   "schema": 3,
   "window_days": 30,
   "source": "Diyanet İşleri Başkanlığı • GitHub Actions Pipeline",
-  "generated_at": "2026-10-19T01:15:59Z",
+  "generated_at": "2026-10-20T01:49:40Z",
   "coverage": {
-    "start": "2026-10-19",
-    "end": "2026-11-17"
+    "start": "2026-10-20",
+    "end": "2026-11-18"
   },
   "locations": {
     "selcuklu": {
       "label": "Konya • Selçuklu",
       "source_url": "https://namazvakitleri.diyanet.gov.tr/tr-TR/17871/selcuklu-icin-namaz-vakti",
       "days": {
-        "2026-10-19": {
-          "imsak": "05:35",
-          "gunes": "06:55",
-          "ogle": "12:40",
-          "ikindi": "15:45",
-          "aksam": "18:15",
-          "yatsi": "19:31"
-        },
         "2026-10-20": {
           "imsak": "05:35",
           "gunes": "06:56",
@@ -251,6 +243,14 @@
           "ikindi": "15:21",
           "aksam": "17:45",
           "yatsi": "19:04"
+        },
+        "2026-11-18": {
+          "imsak": "06:02",
+          "gunes": "07:26",
+          "ogle": "12:40",
+          "ikindi": "15:21",
+          "aksam": "17:44",
+          "yatsi": "19:03"
         }
       }
     },
@@ -258,14 +258,6 @@
       "label": "İstanbul • Ümraniye",
       "source_url": "https://namazvakitleri.diyanet.gov.tr/tr-TR/9541/istanbul-icin-namaz-vakti",
       "days": {
-        "2026-10-19": {
-          "imsak": "05:48",
-          "gunes": "07:13",
-          "ogle": "12:54",
-          "ikindi": "15:55",
-          "aksam": "18:26",
-          "yatsi": "19:45"
-        },
         "2026-10-20": {
           "imsak": "05:49",
           "gunes": "07:14",
@@ -497,6 +489,14 @@
           "ikindi": "15:28",
           "aksam": "17:51",
           "yatsi": "19:15"
+        },
+        "2026-11-18": {
+          "imsak": "06:19",
+          "gunes": "07:48",
+          "ogle": "12:54",
+          "ikindi": "15:27",
+          "aksam": "17:51",
+          "yatsi": "19:14"
         }
       }
     }
